@@ -35,8 +35,8 @@
 
 1. **Клонируйте репозиторий**
    ```bash
-   git clone https://github.com/username/js-mentor-bot.git
-   cd js-mentor-bot
+   https://github.com/VAnastasia/tg-mentor.git
+   cd tg-mentor
    ```
 
 2. **Создайте виртуальное окружение**
